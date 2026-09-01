@@ -20,6 +20,7 @@ body{margin:0;font-family:"Poppins",Arial,sans-serif;color:var(--charcoal);backg
 .info-strip div.terracotta{background:var(--terracotta);color:white}
 .rhythm{display:flex;align-items:stretch;justify-content:space-between;gap:8px}.rhythm-item{background:white;border-radius:20px;padding:18px 10px;text-align:center;flex:1;box-shadow:0 6px 20px rgba(40,68,73,.07)}
 .rhythm .rhythm-item.linen{background:#028E80 !important;color:#284449 !important}
+.rhythm .rhythm-item.linen b,.rhythm .rhythm-item.linen small{color:#284449 !important}
 .rhythm-item span{font-size:27px;display:block}.rhythm-item b{display:block;font-size:14px;margin:5px 0}.rhythm-item small{font-size:11px;opacity:.65}.arrow{display:flex;align-items:center;color:var(--terracotta);font-weight:700}
 .two-col{display:grid;grid-template-columns:1fr 1fr;gap:20px}.panel{border-radius:26px;padding:34px}.prayer-panel{background:var(--linen)}.worship-panel{background:var(--yellow)}
 .reveal-btn{border:0;background:var(--charcoal);color:white;border-radius:999px;padding:12px 18px;font-weight:700}.reveal{max-height:0;overflow:hidden;transition:max-height .35s ease;margin-top:10px}.reveal.open{max-height:500px}
