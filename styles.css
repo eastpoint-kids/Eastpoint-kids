@@ -42,3 +42,16 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 
 .playlist-buttons{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 @media(max-width:760px){.playlist-buttons{flex-direction:column;align-items:stretch}.playlist-buttons .button{text-align:center}}
+.hero-scribble {
+  font-family: "Architects Daughter", cursive;
+  font-size: 26px;
+  font-weight: 600;
+  color: #028E80;
+  margin: 18px 0 0;
+  transform: rotate(-2deg);
+  display: inline-block;
+  letter-spacing: 1px;
+}
+
+
+
