@@ -139,6 +139,11 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   background: var(--yellow);
 }
 
+.question-highlight {
+  color: #D36E46;
+  font-weight: 700;
+}
+
 
 
 
