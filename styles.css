@@ -144,6 +144,17 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   font-weight: 700;
 }
 
+.sen-scribble{
+  font-family:'Architects Daughter',cursive;
+  font-size:22px;
+  font-weight:600;
+  color:#D36E46;
+  margin:28px 0 12px;
+  transform:rotate(-1deg);
+}
+
+
+
 
 
 
