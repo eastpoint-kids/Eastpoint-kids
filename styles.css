@@ -153,6 +153,14 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   transform:rotate(-1deg);
 }
 
+.dates-scribble{
+  font-family:'Architects Daughter',cursive;
+  font-size:22px;
+  font-weight:600;
+  color:#D36E46;
+  margin:4px 0 24px;
+  transform:rotate(-1deg);
+}
 
 
 
