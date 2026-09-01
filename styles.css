@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Poppins:wght@400;500;600;700&display=swap');
 :root{--charcoal:#284449;--teal:#028E80;--mint:#9ECAB6;--terracotta:#D36E46;--linen:#DDD8C3;--yellow:#FCBB47;--cream:#F8F6EF;--white:#fff}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;font-family:"Poppins",Arial,sans-serif;color:var(--charcoal);background:var(--cream);line-height:1.6}
