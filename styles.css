@@ -126,6 +126,18 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 .rhythm .rhythm-item:nth-child(1) {
   background: var(--yellow);
 }
+.rhythm .rhythm-item:nth-child(3) {
+  background: var(--mint);
+}
+.rhythm .rhythm-item:nth-child(5) {
+  background: var(--terracotta);
+}
+.rhythm .rhythm-item:nth-child(7) {
+  background: var(--linen);
+}
+.rhythm .rhythm-item:nth-child(9) {
+  background: var(--yellow);
+}
 
 
 
