@@ -113,6 +113,16 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   letter-spacing: 0.5px;
 }
 
+.rhythm-scribble {
+  display: inline-block;
+  font-family: "Architects Daughter", cursive;
+  font-size: 22px;
+  font-weight: 600;
+  color: #028E80;
+  margin: 4px 0 20px;
+  transform: rotate(-1deg);
+}
+
 
 
 
