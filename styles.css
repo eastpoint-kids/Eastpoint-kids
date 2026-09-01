@@ -17,6 +17,7 @@ body{margin:0;font-family:"Poppins",Arial,sans-serif;color:var(--charcoal);backg
 .feature-card{border-radius:28px;padding:38px;display:grid;grid-template-columns:1.45fr .55fr;gap:30px;background:white;box-shadow:0 8px 28px rgba(40,68,73,.08)}
 .pill{display:inline-block;background:var(--teal);color:white;padding:6px 12px;border-radius:999px;font-size:12px;font-weight:700;margin-bottom:14px}
 .info-strip{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}.info-strip div{background:var(--linen);border-radius:16px;padding:10px 14px;font-size:13px}.cake-art{font-size:150px;display:flex;align-items:center;justify-content:center}
+.info-strip div.terracotta{background:var(--terracotta);color:white}
 .rhythm{display:flex;align-items:stretch;justify-content:space-between;gap:8px}.rhythm-item{background:white;border-radius:20px;padding:18px 10px;text-align:center;flex:1;box-shadow:0 6px 20px rgba(40,68,73,.07)}
 .rhythm-item span{font-size:27px;display:block}.rhythm-item b{display:block;font-size:14px;margin:5px 0}.rhythm-item small{font-size:11px;opacity:.65}.arrow{display:flex;align-items:center;color:var(--terracotta);font-weight:700}
 .two-col{display:grid;grid-template-columns:1fr 1fr;gap:20px}.panel{border-radius:26px;padding:34px}.prayer-panel{background:var(--linen)}.worship-panel{background:var(--yellow)}
