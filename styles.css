@@ -171,6 +171,15 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   transform:rotate(-1deg);
 }
 
+.footer-scribble {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 20px;
+  font-weight: 600;
+  color: #FCBB47;
+  margin: 14px 0 0;
+  transform: rotate(-1deg);
+}
+
 
 
 
