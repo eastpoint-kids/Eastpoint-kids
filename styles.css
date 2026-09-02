@@ -188,6 +188,28 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 .rhythm .rhythm-item.teal{background:#028E80 !important;color:#284449 !important}
 .prayer-panel strong{color:#D36E46 !important}
 
+.playful-worship{
+  background:#9ECAB6 !important;
+  border:3px solid #ffffff;
+  border-radius:26px;
+  box-shadow:0 10px 24px rgba(40,68,73,.12);
+  transform:rotate(-0.5deg);
+}
+
+.playful-worship::before{
+  content:"♪";
+  position:absolute;
+  top:18px;
+  right:24px;
+  font-size:34px;
+  color:#FCBB47;
+  transform:rotate(10deg);
+}
+
+.playful-worship{
+  position:relative;
+}
+
 
 
 
