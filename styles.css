@@ -28,6 +28,7 @@ body{margin:0;font-family:"Poppins",Arial,sans-serif;color:var(--charcoal);backg
 .event-list{display:grid;gap:12px}.event{display:flex;align-items:center;gap:18px;background:white;border-radius:20px;padding:14px 18px}.event h3,.event p{margin:0}.event p{opacity:.68;font-size:14px}
 .datebox{width:62px;min-width:62px;height:68px;background:var(--yellow);border-radius:15px;display:flex;flex-direction:column;align-items:center;justify-content:center}.datebox span{font-size:10px;letter-spacing:1px;font-weight:700}.datebox b{font-size:26px;line-height:1}
 .faq{display:grid;gap:10px}details{background:white;border-radius:18px;padding:0 20px}summary{cursor:pointer;font-weight:700;padding:19px 0;list-style:none}summary::-webkit-details-marker{display:none}summary:after{content:"+";float:right;color:var(--terracotta);font-size:22px}details[open] summary:after{content:"–"}details>div{padding:0 0 18px;opacity:.82}
+.faq details{background:#E5F1ED !important;border:3px solid #D36E46 !important;border-radius:22px !important;overflow:hidden}
 footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);display:block;margin:auto}footer p{margin:14px 0 0;font-size:13px}.tiny{opacity:.55}
 @media(max-width:760px){
 .official-logo{width:100%}
