@@ -238,7 +238,16 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 .playful-worship .playlist-buttons a:last-child{
   transform:rotate(1deg);
 }
-
+.playlist-character{
+  width:120px;
+  height:auto;
+  object-fit:contain;
+  display:block;
+  margin:0 auto 10px auto;
+}
+.headphones-character{
+  transform:rotate(-8deg);
+}
 
 
 
