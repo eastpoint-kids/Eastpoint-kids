@@ -249,7 +249,34 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   transform:rotate(-8deg);
 }
 
+.playful-worship .playlist-buttons{
+  position:relative;
+}
 
+.playful-worship .playlist-character{
+  position:absolute;
+  width:105px;
+  height:auto;
+  z-index:2;
+  pointer-events:none;
+  margin:0;
+}
+
+.playful-worship .headphones-character{
+  left:7%;
+  top:50%;
+  transform:translateY(-50%) rotate(-6deg);
+}
+
+.playful-worship .dinosaur-character{
+  left:57%;
+  top:50%;
+  transform:translateY(-50%) rotate(3deg);
+}
+
+.playful-worship .playlist-buttons a{
+  padding-left:125px;
+}
 
 
 
