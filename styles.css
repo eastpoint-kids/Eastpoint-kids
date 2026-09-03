@@ -263,13 +263,15 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 }
 
 .playful-worship .headphones-character{
-  left:7%;
+  width:90px;
+  left:9%;
   top:70%;
   transform:translateY(-50%) rotate(-6deg);
 }
 
 .playful-worship .dinosaur-character{
-  left:57%;
+  width:125px;
+  left:59%;
   top:70%;
   transform:translateY(-50%) rotate(3deg);
 }
