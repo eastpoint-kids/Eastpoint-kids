@@ -310,6 +310,13 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
     margin-left: auto;
     margin-right: auto;
   }
+
+.prayer-panel {
+  width: calc(100% - 32px);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 18px 16px;
+}
 }
 
 
