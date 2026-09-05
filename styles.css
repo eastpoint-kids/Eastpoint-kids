@@ -315,17 +315,47 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   .playful-worship .dinosaur-character {
     width: 54px;
   }
-  .playful-worship {
-    width: calc(100% - 80px);
-    margin-left: auto;
-    margin-right: auto;
-  }
-
+  /* Make Prayer & Worship the same width as the Home box */
+.playful-worship,
 .prayer-panel {
-  width: calc(100% - 80px);
-  margin-left: auto;
-  margin-right: auto;
-  padding: 12px 20px;
+    width: calc(100% - 96px);
+    margin: 0 auto;
+    box-sizing: border-box;
+    border-radius: 28px;
+}
+
+/* Prayer card */
+.prayer-panel {
+    padding: 26px 20px;
+}
+
+/* Worship card */
+.playful-worship {
+    padding: 22px 20px;
+}
+
+/* Smaller YouTube & Spotify cards */
+.playful-worship .playlist-buttons {
+    gap: 10px;
+}
+
+.playful-worship .playlist-buttons a {
+    min-height: 96px;
+    padding: 12px;
+    border-radius: 20px;
+    flex: 1;
+}
+
+/* Smaller characters */
+.playful-worship .headphones-character,
+.playful-worship .dinosaur-character {
+    width: 44px;
+}
+
+/* Smaller text inside the playlist cards */
+.playful-worship .playlist-buttons strong {
+    font-size: 1rem;
+}
 }
 @media (max-width: 600px) {
   .rhythm-item {
