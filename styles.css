@@ -317,7 +317,16 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   margin-right: auto;
   padding: 18px 16px;
 }
+@media (max-width: 600px) {
+  .rhythm-item {
+    width: calc(100% - 32px);
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+  }
 }
+
+  
 
 
 
