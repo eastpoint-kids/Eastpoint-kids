@@ -293,6 +293,12 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   .playful-worship .playlist-buttons {
     gap: 8px;
   }
+  .playful-worship .playlist-buttons a {
+    min-height: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
 
   @media (max-width: 600px) {
   .rhythm-item {
