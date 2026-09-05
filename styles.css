@@ -211,11 +211,12 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 }
 .playful-worship .playlist-buttons{
   display:grid;
-  grid-template-columns:repeat(2, 155px);
+  grid-template-columns:minmax(0,1fr) minmax(0,1fr);
   gap:8px;
   margin-top:22px;
   margin-left:20px;
   margin-right:20px;
+  width:auto;
 }
 
 
@@ -268,14 +269,14 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 }
 
 .playful-worship .headphones-character{
-  width:120px;
+  width:60px;
   left:1%;
   top:48%;
   transform:translateY(-50%) rotate(-6deg);
 }
 
 .playful-worship .dinosaur-character{
-  width:125px;
+  width:60px;
   left:58%;
   top:52%;
   transform:translateY(-50%) rotate(3deg);
