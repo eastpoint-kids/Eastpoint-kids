@@ -287,14 +287,14 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 
 @media (max-width: 600px) {
   .playful-worship {
-    padding: 22px 14px;
+    padding: 12px 16px;
   }
 
   .playful-worship .playlist-buttons {
     gap: 8px;
   }
   .playful-worship .playlist-buttons a {
-    min-height: 120px;
+    min-height: 90px;
     padding-top: 10px;
     padding-bottom: 10px;
     box-sizing: border-box;
@@ -309,11 +309,11 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   }
 
   .playful-worship .headphones-character {
-    width: 62px;
+    width: 50px;
   }
 
   .playful-worship .dinosaur-character {
-    width: 68px;
+    width: 54px;
   }
   .playful-worship {
     width: calc(100% - 48px);
@@ -325,7 +325,7 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   width: calc(100% - 48px);
   margin-left: auto;
   margin-right: auto;
-  padding: 24px 20px;
+  padding: 12px 20px;
 }
 @media (max-width: 600px) {
   .rhythm-item {
