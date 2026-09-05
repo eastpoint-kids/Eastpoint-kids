@@ -316,13 +316,13 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
     width: 54px;
   }
   .playful-worship {
-    width: calc(100% - 48px);
+    width: calc(100% - 32px);
     margin-left: auto;
     margin-right: auto;
   }
 
 .prayer-panel {
-  width: calc(100% - 48px);
+  width: calc(100% - 32px);
   margin-left: auto;
   margin-right: auto;
   padding: 12px 20px;
