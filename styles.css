@@ -194,6 +194,7 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
   border-radius:26px;
   box-shadow:0 10px 24px rgba(40,68,73,.12);
   transform:rotate(-0.5deg);
+  padding-bottom: 18px !important;
 }
 
 .playful-worship::before{
