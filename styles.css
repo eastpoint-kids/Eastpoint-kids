@@ -341,7 +341,7 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 
 .playful-worship .playlist-buttons a {
     min-height: 96px;
-    padding: 10px 8px 10px 52px;
+    padding: 10px 8px 10px 40px;
     border-radius: 20px;
     flex: 1;
 }
@@ -349,7 +349,7 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 /* Smaller characters */
 .playful-worship .headphones-character,
 .playful-worship .dinosaur-character {
-    width: 44px;
+    width: 32px;
 }
 
 /* Smaller text inside the playlist cards */
