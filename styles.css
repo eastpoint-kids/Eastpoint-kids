@@ -316,16 +316,16 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
     width: 68px;
   }
   .playful-worship {
-    width: calc(100% - 16px);
+    width: calc(100% - 48px);
     margin-left: auto;
     margin-right: auto;
   }
 
 .prayer-panel {
-  width: calc(100% - 32px);
+  width: calc(100% - 48px);
   margin-left: auto;
   margin-right: auto;
-  padding: 18px 16px;
+  padding: 24px 20px;
 }
 @media (max-width: 600px) {
   .rhythm-item {
