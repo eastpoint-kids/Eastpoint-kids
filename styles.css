@@ -211,10 +211,10 @@ footer{padding:48px 0 32px;text-align:center}.footer-logo{width:min(430px,86%);d
 }
 .playful-worship .playlist-buttons{
   display:grid;
-  grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+  grid-template-columns:1fr 1fr;
   gap:8px;
   margin-top:22px;
-  margin-left:20px;
+  margin-left:0px;
   margin-right:20px;
   width:auto;
 }
